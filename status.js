@@ -1,3 +1,4 @@
+const { Http2ServerRequest } = require('node:http2');
 const os = require('os');
 
 setInterval(() => {
