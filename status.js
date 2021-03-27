@@ -40,3 +40,5 @@ const percents = parseInt((mem / total) * 100); */
 
 /* console.log("=== Pc Status ===");
 console.table(status); */
+
+testando
